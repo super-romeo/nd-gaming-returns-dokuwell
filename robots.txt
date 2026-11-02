@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nd-gaming-returns.dokufolio.com/sitemap.xml
